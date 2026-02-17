@@ -1,77 +1,75 @@
 # 💫 About Me:
 ## 👋🏽 Hey there! I'm Moyosore Ogunjobi
 
-### 🚀 Software Engineering Undergrad | Full-Stack Developer | DevOps Enthusiast | Fintech Innovator
+### 🚀 Software Engineering Undergrad | Backend Developer | Cloud Infrastructure | ML Systems
 
 #### About Me
-I'm a passionate software engineering undergraduate with expertise across full-stack development, DevOps engineering, and Fintech solutions. I love building scalable applications and solving complex problems in fast-paced environments. Beyond tech, I enjoy exploring fashion, sports, music, arts, and film in my free time.
+I'm a software engineering student at the University of Calgary (graduating May 2027) with production experience in backend systems, ML pipelines, and cloud infrastructure. I lead a 10-person software team on the University of Calgary Solar Racing Team, building telemetry, data logging, and driver interface systems for competition vehicles. Beyond tech, I enjoy exploring fashion, sports, music, arts, and film in my free time.
 
 #### 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, Java, C++, Swift
+- **Languages**: Python, Java, C/C++, TypeScript/JavaScript, SQL, Bash
 - **Frontend**: React, HTML5, CSS3
-- **Backend**: Node.js, FastAPI
-- **DevOps**: AWS (EC2, S3, Lambda, EKS), Kubernetes, Docker, GitLab CI/CD
-- **Databases**: PostgreSQL, Redis, MongoDB, Snowflake
-- **Other**: Microservices, CI/CD, A/B Testing, Security Best Practices, Machine Learning
+- **Backend**: FastAPI, REST APIs, WebSockets, Node.js
+- **Infrastructure**: AWS (EC2, S3, Lambda), Kubernetes, Docker, Terraform, CI/CD (GitHub Actions), Linux
+- **Databases**: PostgreSQL, Redis, MongoDB
+- **Observability**: Grafana, Prometheus, Structured Logging
+- **Other**: Microservices, ML Pipelines, PyTorch, Real-time Streaming
 
 #### 🌱 Currently Learning & Exploring
-- Advanced cloud architectures
-- Machine learning applications in Fintech
-- Travel tech optimization techniques
-- Mathematical modeling for software solutions
+- Advanced distributed systems and reliability engineering
+- Machine learning deployment at scale
+- Embedded system interfacing and digital signal processing
+- Software testing methodologies
 
-#### 📖 Recent Projects
-- [Payment Gateway Simulator](#)
-- [F1 Social Analytics](#)
-- [SmartBudget Dashboard](#)
-- [Travel Booking Platform](#)
-- [AI Training Pipeline (Freelance)](#)
+#### 📖 Projects
+- [PayFlow: Distributed Microservices Payment Gateway](https://github.com/MOYOSOREJOBI) — Java, Python, Docker, Kubernetes, Terraform, PostgreSQL, Redis, AWS
+- [ML-Powered Data Analytics Platform](https://github.com/MOYOSOREJOBI) — Python, React, PyTorch, PostgreSQL, Docker, FastAPI
+- [Real-Time Telemetry System (Solar Racing)](https://github.com/MOYOSOREJOBI) — Python, WebSockets, PostgreSQL, Grafana
 
 #### 💼 Work Experience Highlights
-- **Freelance AI Training Engineer** at Alignerr via Labelbox (Remote)
-- **Customer Solutions Engineer** at Pitch Perfect Solutions (Remote)
-- **Petroleum Engineering Intern** at Oando PLC
+- **AI Training Engineer** at Alignerr via Labelbox (Remote) — Code evaluation, mathematical reasoning, live coding assessment
+- **AI Data Specialist** at Data Annotation (Remote) — NLP, computer vision, audio labeling, QA
+- **Engineering Intern** at Oando PLC (Lagos, Nigeria) — Operational data pipelines and anomaly detection
 
 #### 🎓 Education
-Bachelor of Science in Software Engineering | University of Calgary  
-*Relevant Coursework*: Distributed Systems, Microservices Architecture, Cloud Computing, Financial Engineering, Web Development
+Bachelor of Science in Software Engineering | University of Calgary | Expected May 2027
+*Relevant Coursework*: Data Structures and Algorithms, Software Architecture, Machine Learning Systems, Applied Deep Learning, Practices in Data Management, Embedded System Interfacing
 
 #### 🏆 Certifications
-- AWS Certified Solutions Architect - Associate
-- IBM Full Stack Software Developer Certificate
-- Google Cloud Professional Data Engineer
+- AWS Certified Developer — Associate (DVA-C02)
+- AWS Certified Solutions Architect — Associate (SAA-C03)
+- AWS Certified Machine Learning Engineer — Associate (MLA-C01)
+- AWS Certified Data Engineer — Associate (DEA-C01)
+- HackerRank Software Engineer
+
+#### 🏁 Leadership
+- **Software VP** | Solar Racing Team, University of Calgary (2023 — Present)
+- **Junior President** | African Caribbean Students Association (2023 — 2025)
+- **Robotics and ICT Instructor** | Rainbow College, Lagos (2015 — 2020)
 
 #### 🌍 Open To
-- Remote work opportunities
-- Fintech and travel tech challenges
-- Collaborative projects that make a difference
-- Internship opportunities
+- Software engineering internship opportunities (Summer 2026)
+- Collaborative projects in backend systems, ML, and cloud infrastructure
 - Freelance work in AI/ML and web development
-- Mathematics and algorithm optimization projects
-- Volunteering for tech-driven social initiatives
 
 #### 🎯 Interests
-- **Fashion**: Exploring trends and tech intersections (e.g., AR in fashion design).
-- **Sports**: Soccer, Formula 1, Football, Basketball, and fitness tech solutions.
-- **Music**: Indie genres, music production tools, and AI-driven sound design.
-- **Arts**: Digital art, photography, and creative coding projects.
-- **Film**: Indie cinema, storytelling through tech, and video editing.
-
-#### 🎯 Personal Values
-- Building technology with social impact
-- Driving innovation in Fintech and travel sectors
-- Continuous learning and knowledge sharing
-- Collaborative and inclusive development practices
+- **Fashion**: Exploring trends and tech intersections
+- **Sports**: Soccer, Formula 1, Football, Basketball
+- **Music**: Indie genres, music production tools, and AI-driven sound design
+- **Arts**: Digital art, photography, and creative coding projects
+- **Film**: Indie cinema, storytelling through tech, and video editing
 
 #### 🔗 Let's Connect
 - 📧 moyosorejobi@gmail.com
 - 📱 +1 (587) 969-4768
+- 🌐 [moyosore.dev](https://moyosore.dev)
 - 📍 Calgary, AB, Canada
 
 ---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MOYOSOREJOBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MOYOSOREJOBI&theme=dark&hide_border=false)<br/>
@@ -88,5 +86,3 @@ Bachelor of Science in Software Engineering | University of Calgary
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MOYOSOREJOBI&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
