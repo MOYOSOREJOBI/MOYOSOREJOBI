@@ -90,29 +90,6 @@ Bachelor of Science in Software Engineering | University of Calgary
 [![](https://visitcount.itsvg.in/api?id=MOYOSOREJOBI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# Save this file as: .github/workflows/snake.yml
-# in your MOYOSOREJOBI/MOYOSOREJOBI repository
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs daily at midnight UTC
-  workflow_dispatch: # allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MOYOSOREJOBI
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
