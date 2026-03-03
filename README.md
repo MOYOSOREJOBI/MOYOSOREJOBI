@@ -13,7 +13,7 @@ I'm a passionate software engineering undergraduate with expertise across full-s
 - **DevOps**: AWS (EC2, S3, Lambda, EKS), Kubernetes, Docker, GitLab CI/CD
 - **Databases**: PostgreSQL, Redis, MongoDB, Snowflake
 - **Other**: Microservices, CI/CD, A/B Testing, Security Best Practices, Machine Learning
-
+ 
 #### 🌱 Currently Learning & Exploring
 - Advanced cloud architectures
 - Machine learning applications in Fintech
