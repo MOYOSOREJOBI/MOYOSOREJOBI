@@ -28,9 +28,9 @@ I'm a passionate software engineer with expertise across full-stack development,
 
 
 #### 💼 Work Experience Highlights
-- ** AI Training Engineer** at Alignerr via Labelbox (Remote)
-- ** AI Training Engineer** at Turing (Remote)
-- **Customer Solutions Engineer** at Pitch Perfect Solutions (Remote)
+- AI Training Engineer at Alignerr via Labelbox 
+- ** AI Training Engineer** at Turing 
+- **Customer Solutions Engineer** at Pitch Perfect Solutions 
 - **Petroleum Engineering Intern** at Oando PLC
 
 #### 🎓 Education
