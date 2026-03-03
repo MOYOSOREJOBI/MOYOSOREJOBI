@@ -70,8 +70,6 @@ Bachelor of Science in Software Engineering | University of Calgary 2021-2026
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MOYOSOREJOBI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MOYOSOREJOBI&icon=0&color=0)](https://visitcount.itsvg.in)
