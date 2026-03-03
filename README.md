@@ -22,9 +22,9 @@ I'm a passionate software engineer with expertise across full-stack development,
 - Backend and Fullstack Engineering
 
 #### 📖 Recent Projects
-- [AtlasGDP](#)
-- [BALLISLIFE](#)
-- [Sentinel](#)
+- [AtlasGDP](https://github.com/MOYOSOREJOBI/atlas_gdp)
+- [BALLISLIFE](https://github.com/MOYOSOREJOBI/ballislife)
+- [Sentinel](https://github.com/MOYOSOREJOBI/sentinel)
 
 
 #### 💼 Work Experience Highlights
