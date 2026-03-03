@@ -64,9 +64,6 @@ Bachelor of Science in Software Engineering | University of Calgary 2021-2026
 ![](https://nirzak-streak-stats.vercel.app/?user=MOYOSOREJOBI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOYOSOREJOBI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MOYOSOREJOBI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -74,9 +71,3 @@ Bachelor of Science in Software Engineering | University of Calgary 2021-2026
 ---
 [![](https://visitcount.itsvg.in/api?id=MOYOSOREJOBI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
