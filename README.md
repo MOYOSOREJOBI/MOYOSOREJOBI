@@ -1,10 +1,10 @@
 # 💫 About Me:
 ## 👋🏽 Hey there! I'm Moyosore Ogunjobi
 
-### 🚀 Software Engineering Undergrad | Full-Stack Developer | DevOps Enthusiast | Fintech Innovator
+### 🚀 Machine Learning Enthusiast  | Full-Stack Developer | DevOps Engineer | Fintech Innovator
 
 #### About Me
-I'm a passionate software engineering undergraduate with expertise across full-stack development, DevOps engineering, and Fintech solutions. I love building scalable applications and solving complex problems in fast-paced environments. Beyond tech, I enjoy exploring fashion, sports, music, arts, and film in my free time.
+I'm a passionate software engineer with expertise across full-stack development, DevOps engineering, and Fintech solutions. I love building scalable applications and solving complex problems in fast-paced environments. Beyond tech, I enjoy exploring fashion, sports, music, arts, and film in my free time.
 
 #### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, Swift
@@ -15,51 +15,38 @@ I'm a passionate software engineering undergraduate with expertise across full-s
 - **Other**: Microservices, CI/CD, A/B Testing, Security Best Practices, Machine Learning
  
 #### 🌱 Currently Learning & Exploring
+- Machine learning applications & Models
 - Advanced cloud architectures
-- Machine learning applications in Fintech
-- Travel tech optimization techniques
 - Mathematical modeling for software solutions
+- DevOps
+- Backend and Fullstack Engineering
 
 #### 📖 Recent Projects
-- [Payment Gateway Simulator](#)
-- [F1 Social Analytics](#)
-- [SmartBudget Dashboard](#)
-- [Travel Booking Platform](#)
-- [AI Training Pipeline (Freelance)](#)
+- [AtlasGDP](#)
+- [BALLISLIFE](#)
+- [Sentinel](#)
+
 
 #### 💼 Work Experience Highlights
-- **Freelance AI Training Engineer** at Alignerr via Labelbox (Remote)
+- ** AI Training Engineer** at Alignerr via Labelbox (Remote)
+- ** AI Training Engineer** at Turing (Remote)
 - **Customer Solutions Engineer** at Pitch Perfect Solutions (Remote)
 - **Petroleum Engineering Intern** at Oando PLC
 
 #### 🎓 Education
-Bachelor of Science in Software Engineering | University of Calgary  
+Bachelor of Science in Software Engineering | University of Calgary 2021-2026
 *Relevant Coursework*: Distributed Systems, Microservices Architecture, Cloud Computing, Financial Engineering, Web Development
 
-#### 🏆 Certifications
-- AWS Certified Solutions Architect - Associate
-- IBM Full Stack Software Developer Certificate
-- Google Cloud Professional Data Engineer
-
-#### 🌍 Open To
-- Remote work opportunities
-- Fintech and travel tech challenges
-- Collaborative projects that make a difference
-- Internship opportunities
-- Freelance work in AI/ML and web development
-- Mathematics and algorithm optimization projects
-- Volunteering for tech-driven social initiatives
 
 #### 🎯 Interests
-- **Fashion**: Exploring trends and tech intersections (e.g., AR in fashion design).
-- **Sports**: Soccer, Formula 1, Football, Basketball, and fitness tech solutions.
-- **Music**: Indie genres, music production tools, and AI-driven sound design.
+- **Fashion**: Exploring trendsm Highfashion, Streetwear, and tech intersections (e.g., AR in fashion design).
+- **Sports**: Football, Formula 1, NFL, Basketball.
+- **Music**: Afrobeats, R&B, Hiphop, Alté, Gospel, Grime, House, Jazz, Dancehall
 - **Arts**: Digital art, photography, and creative coding projects.
-- **Film**: Indie cinema, storytelling through tech, and video editing.
 
 #### 🎯 Personal Values
 - Building technology with social impact
-- Driving innovation in Fintech and travel sectors
+- Driving innovation in Fintech, Sportstech and Saas
 - Continuous learning and knowledge sharing
 - Collaborative and inclusive development practices
 
