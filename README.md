@@ -52,7 +52,7 @@ Bachelor of Science in Software Engineering | University of Calgary 2021-2026
 
 #### 🔗 Let's Connect
 - 📧 moyosorejobi@gmail.com
-- 📱 +1 (587) 969-4768
+- 📱 +1 (825) 736-5656
 - 📍 Calgary, AB, Canada
 
 ---
